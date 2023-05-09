@@ -11,3 +11,7 @@ Run API server using:
 
 Run frontend:
 > npm start
+
+TBC:
+1. Powerpoint generator
+2. Languages
