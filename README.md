@@ -1,2 +1,13 @@
-# Article-Summarizer
-research article summarizer made during iNTUition
+# iNTUition
+
+Packages to install: fastapi, uvicorn, PyPDF2, sumy
+> pip install fastapi
+> pip install uvicorn
+> pip install PyPDF2
+> pip install sumy
+
+Run API server using:
+> uvicorn main:app --reload
+
+Run frontend:
+> npm start
